@@ -2,9 +2,7 @@
 This project simulates the behavior of a classical mass-spring-damper system using MATLAB + Simulink.
 The model is based on the second-order differential equation that governs mechanical oscillations.
 
-\[
-m \ddot{x} + c \dot{x} + kx = F(t)
-\]
+mx'' + cx' + kx = F(t)
 
 ## Objectives
 - build a baseline simulation of the system using Simulink
