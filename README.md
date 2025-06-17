@@ -3,7 +3,7 @@ This project simulates the behavior of a classical mass-spring-damper system usi
 The model is based on the second-order differential equation that governs mechanical oscillations.
 
 \[
-m \ddot{x} + c \dot{x} + k x = F(t)
+m \ddot{x} + c \dot{x} + kx = F(t)
 \]
 
 ## Objectives
