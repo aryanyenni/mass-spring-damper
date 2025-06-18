@@ -11,8 +11,8 @@ mx'' + cx' + kx = F(t)
 - potentially add real-time tunable parameters and animation
 
 ## Files
-'mass_spring_damper.slx' - main Simulink model
-'fb_diagram.slx' - free-body-diagram, givens, to be used for animation
+- 'mass_spring_damper.slx' - main Simulink model
+- 'fb_diagram.slx' - free-body-diagram, givens, to be used for animation
 
 ## References
 - [YouTube Tutorial] https://www.youtube.com/watch?v=pcRJerq6AqA - base model inspiration
