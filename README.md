@@ -1,4 +1,4 @@
-# Mass-Spring_Damper System Modeling / Simulation
+# Mass-Spring-Damper System Modeling / Simulation
 This project simulates the behavior of a classical mass-spring-damper system using MATLAB + Simulink.
 The model is based on the second-order differential equation that governs mechanical oscillations.
 
